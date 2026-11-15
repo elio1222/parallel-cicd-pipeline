@@ -1,0 +1,17 @@
+{
+  "seed": 475,
+  "findings": [
+    {
+      "file": "client.py",
+      "offset": 33,
+      "length": 40,
+      "kind": "github_token"
+    },
+    {
+      "file": "config.py",
+      "offset": 32,
+      "length": 20,
+      "kind": "aws_access_key"
+    }
+  ]
+}
