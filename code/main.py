@@ -1,6 +1,6 @@
 from fastapi import FastAPI
-from client import fetch_user
-from database import save_user
+from small_repo.client import fetch_user
+from small_repo.database import save_user
 
 app = FastAPI()
 

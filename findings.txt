@@ -1,1 +1,4 @@
-prefix found in <file_name>, line: <number> 4148
+code/config.py:3:22  AWS access key
+code/database.py:3:12  AWS access key
+code/client.py:3:17  GitHub token
+code/main.py: clean
